@@ -4,10 +4,10 @@ Project Repo for the Game Physics in... Series. The following are currently impl
 
 | [_Game Physics in One Weekend_](https://www.amazon.com/gp/product/B08RXT38YN)  | [_Game Physics: The Next Week_](https://www.amazon.com/gp/product/B08RXSCKZ8) | [_Game Physics: The Rest of Your Life_](https://www.amazon.com/gp/product/B08RXQPXD1) |
 | ------------- | ------------- | ------------- |
-| <li>- [ ] The Vector Classes </li>              |
-| <li>- [ ] The Matrix Classes </li>              | 
-| <li>- [ ] The Quat Classe </li>                 |   
-| <li>- [ ] Bodies </li>                          |
+| <li>- [X] The Vector Classes </li>              |
+| <li>- [X] The Matrix Classes </li>              | 
+| <li>- [X] The Quat Classe </li>                 |   
+| <li>- [X] Bodies </li>                          |
 | <li>- [ ] Gravity </li>                         |         
 | <li>- [ ] Gravity as an Impulse </li>           |
 | <li>- [ ] Collision </li>                       |
