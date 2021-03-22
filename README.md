@@ -2,7 +2,7 @@
 
 Project Repo for the Game Physics in... Series. The following are currently implemented within the repo:
 
-| [_Game Physics in One Weekend_]()  | [_Game Physics: The Next Week_]() | [_Game Physics: The Rest of Your Life_]() |
+| [_Game Physics in One Weekend_](https://www.amazon.com/gp/product/B08RXT38YN)  | [_Game Physics: The Next Week_](https://www.amazon.com/gp/product/B08RXSCKZ8) | [_Game Physics: The Rest of Your Life_](https://www.amazon.com/gp/product/B08RXQPXD1) |
 | ------------- | ------------- | ------------- |
 | <li>- [ ] The Vector Classes </li>              |
 | <li>- [ ] The Matrix Classes </li>              | 
